@@ -54,7 +54,7 @@ The following software must be installed:
 ## Step 1: Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ayushgautam2007/Microservices-Task.git
 cd Microservices-Task
 ```
 
@@ -81,9 +81,6 @@ docker compose up --build -d
 
 ```bash
 docker ps
-
-
-<img width="946" height="174" alt="image" src="https://github.com/user-attachments/assets/895f3347-f288-4d8a-a0e6-b1b1d32a3189" />
 
 ```
 
@@ -232,12 +229,6 @@ docker compose up --build
 ## Docker Logs
 
 Check service logs:
-
-```bash
-docker logs <container-name>
-```
-
-Example:
 
 ```bash
 docker logs user-service
