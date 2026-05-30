@@ -73,8 +73,6 @@ cd Microservices-Task
 ```bash
 docker compose up --build -d
 
-<img width="945" height="326" alt="image" src="https://github.com/user-attachments/assets/1d073c15-ffe5-406c-8b75-98a36ecf84ad" />
-
 ```
 
 ---
@@ -252,8 +250,18 @@ docker logs user-service
 Include screenshots of:
 
 1. `docker compose up --build`
+
+<img width="945" height="326" alt="image" src="https://github.com/user-attachments/assets/1d073c15-ffe5-406c-8b75-98a36ecf84ad" />
+
 2. `docker ps`
+
+<img width="947" height="152" alt="image" src="https://github.com/user-attachments/assets/a0b0ea46-cf34-4850-81cb-e82a0c1b9e3c" />
+
+
 3. Successful API responses
+
+<img width="842" height="81" alt="image" src="https://github.com/user-attachments/assets/8e23fe03-cf38-4070-a5bd-7dc9f024bea4" />
+
 4. Running containers
 
 ---
