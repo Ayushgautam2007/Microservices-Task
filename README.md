@@ -73,9 +73,7 @@ cd Microservices-Task
 ```bash
 docker compose up --build -d
 
-
-<img width="945" height="326" alt="image" src="https://github.com/user-attachments/assets/05ec49ac-53b9-4c96-818f-4e4a38c1cdde" />
-
+<img width="945" height="326" alt="image" src="https://github.com/user-attachments/assets/1d073c15-ffe5-406c-8b75-98a36ecf84ad" />
 
 ```
 
