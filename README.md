@@ -60,10 +60,21 @@ cd Microservices-Task
 
 ---
 
+
+## Step 2: Install Docker and Git in Instance Screenshots
+
+<img width="944" height="419" alt="image" src="https://github.com/user-attachments/assets/12fe0e1c-bad3-4506-8f05-3923cac27911" />
+
+<img width="836" height="248" alt="image" src="https://github.com/user-attachments/assets/fcdc97ff-1f4c-41ad-bcc7-93488edee2c4" />
+
+
 ## Step 2: Build and Start Containers
 
 ```bash
-docker compose up --build
+docker compose up --build -d
+<img width="945" height="326" alt="image" src="https://github.com/user-attachments/assets/05ec49ac-53b9-4c96-818f-4e4a38c1cdde" />
+
+
 ```
 
 ---
@@ -72,6 +83,9 @@ docker compose up --build
 
 ```bash
 docker ps
+
+<img width="946" height="174" alt="image" src="https://github.com/user-attachments/assets/895f3347-f288-4d8a-a0e6-b1b1d32a3189" />
+
 ```
 
 All containers should appear in `Up` state.
